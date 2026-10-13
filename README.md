@@ -1,5 +1,5 @@
 
-## 👋 WELCOME TO MY GITHUB
+## WELCOME TO MY GITHUB
 
 Hi, I'm **Vincent Twizere**, a Software Engineer specializing in Full-Stack and Mobile Development.
 
