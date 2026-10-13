@@ -9,7 +9,7 @@ Hi, I'm **Vincent Twizere**, a Software Engineer specializing in Full-Stack and 
 - 🤝 Open to work and collaboration.
 - 🌱 Continuously learning and growing as a developer.
 - 💬 Happy to connect and discuss software engineering and technology.
-- 📫 Reach me at [v.twizere12@gmail.com](mailto:v.twizere12@gmail.com.
+- 📫 Reach me at: v.twizere12@gmail.com
 
 ### MY MANTRA
 
