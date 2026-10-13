@@ -1,4 +1,4 @@
-## WELCOME TO MY GITHUB 👋
+## WELCOME TO MY GITHUB 
 
 Hi, I'm **Vincent Twizere**, a Software Engineer specializing in Full-Stack and Mobile Development, passionate about writing clean code with security in mind to build impactful digital solutions.
 
