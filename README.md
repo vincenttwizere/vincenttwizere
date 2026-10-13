@@ -1,13 +1,16 @@
-## WELCOME TO MY GITHUB 
 
-Hi, I'm **Vincent Twizere**, a Software Engineer specializing in Full-Stack and Mobile Development,
-passionate about writing clean code with security in mind to build impactful digital solutions.
+## 👋 WELCOME TO MY GITHUB
 
-ABOUT ME,
+Hi, I'm **Vincent Twizere**, a Software Engineer specializing in Full-Stack and Mobile Development, passionate about writing clean code with security in mind to build impactful digital solutions.
 
--Building Web and Mobile applications (MERN-STACK DEVELOPER)
--Open to Work and Collaboration
--Happy to connect and discuss software engineering, development practices, and technology.
--Reach out to me at v.twizere12@gmail.com
+### ABOUT ME
 
-Writing clean code with security in mind. Building the future, one line of code at a time.
+- 💻 Building web and mobile applications (MERN Stack).
+- 🤝 Open to work and collaboration.
+- 🌱 Continuously learning and growing as a developer.
+- 💬 Happy to connect and discuss software engineering and technology.
+- 📫 Reach me at [v.twizere12@gmail.com](mailto:v.twizere12@gmail.com.
+
+### MY MANTRA
+
+*Writing clean code with security in mind. Building the future, one line of code at a time.* 
